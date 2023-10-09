@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">AppHotel</string>
+
+    <string name="text_intro1">Cari Hotel Murah?</string>
+    <string name="text_intro2">Keamanan Terpercaya</string>
+    <string name="text_intro3">Fasilitas Lengkap</string>
+
+    <string name="desc_intro1">Selamat datang di Aplikasi Hotel Rimberio, aplikasi ini
+menyediakan rekomendasi hotel yang murah dan
+nyaman bagi kalian yang ingin travelling ke paris.</string>
+    <string name="desc_intro2">Rimberio Ni Hotel ini sudah berdiri selama 10 tahun
+dan telah dipercayai sebagai hotel dengan
+tingkat keamanan bertaraf international.
+</string>
+    <string name="desc_intro3">Selain harga yang murah dan keamanan yang
+terjamin, Ni Hotel rimberio juga menyediakan
+fasilitas lengkap dan berkualitas baik.</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

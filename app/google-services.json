@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "647225530785",
+    "project_id": "apphotel-5e93f",
+    "storage_bucket": "apphotel-5e93f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647225530785:android:eb97a61db4e530f97553e0",
+        "android_client_info": {
+          "package_name": "com.example.apphotel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "647225530785-jdque8a1pefibnfldh8qmoiougt8mjuq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrZmTExj0v5XKM3E8CWXjjaI4Z790pASo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "647225530785-jdque8a1pefibnfldh8qmoiougt8mjuq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
